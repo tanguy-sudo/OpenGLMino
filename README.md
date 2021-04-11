@@ -5,7 +5,7 @@
 
 ### Info Générale
 ***
-Ce projet a été réalisé dans la cadre de ma formation en licence informatique à l'université d'Angers en 3ème années pour le cours de synthèse d'images. 
+Ce projet a été réalisé dans le cadre de ma formation en licence informatique à l'université d'Angers en 3ème années pour le cours de synthèse d'images. 
 ## Technologies
 ***
 Liste des technologies utilisées dans le projet :
